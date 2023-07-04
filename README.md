@@ -11,6 +11,6 @@ This folder only contains the code for the case of ten variables (p=10). The cod
 
 Kind regards,
 
-Lucas Vogels
+The authors
 
 
